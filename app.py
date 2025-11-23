@@ -367,6 +367,7 @@ with col1:
         st.write("Video preview:")
         st.video(uploaded)
 
+
 # Right: analysis & results
 with col2:
     st.markdown("<h3 style='font-family:Montserrat; color:#e9efff; text-transform:uppercase; letter-spacing:1px;'>Analysis Engine</h3>", unsafe_allow_html=True)
